@@ -1,1 +1,1 @@
-Bomberman oyunucu kodları ve bankamatik uygulaması kodlarına buradan erişebilirsiniz.
+Bomberman oyunu kodları ve bankamatik uygulaması kodlarına buradan erişebilirsiniz.
