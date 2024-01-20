@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L8AwWnkZiUW8d9fcduc53FVCOtOBZCJwSI6wwRF5zOFBQxgiPT6VDlbaDF2Qwh4oTOCM0FbvPDnBQR2j8m+YYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\4-Katmanlı Proje Yapısının Kurulması\\9-Test Verilerinin Otomatik Eklenmesi\\shopapp\\shopapp.entity\\shopapp.entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sadikturan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sadikturan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
